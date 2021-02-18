@@ -1,4 +1,4 @@
-import Home from './Home/Home'
+import Home from 'views/Home/Home'
 
 const Index = () => <Home />
 

@@ -21,6 +21,9 @@
             "ssr": false,
             "displayName": false
           }
+        ],
+        [
+          "babel-plugin-macros"
         ]
       ]
     }
