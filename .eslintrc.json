@@ -37,7 +37,6 @@
         "react/prop-types": "off",
         "react/react-in-jsx-scope": "off",
         "@typescript-eslint/explicit-module-boundary-types": "off",
-        "@typescript-eslint/no-use-before-define": ["error"],
         "no-return-assign": "off",
         "max-len": ["error", { "code": 140 }],
         "import/extensions": "off",

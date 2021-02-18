@@ -1,7 +1,5 @@
-const Home = () => (
-  <main>
-    <h1>Plat BoilerPlate</h1>
-  </main>
-)
+import Home from './Home/Home'
 
-export default Home
+const Index = () => <Home />
+
+export default Index
