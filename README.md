@@ -40,3 +40,4 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 - `test:watch`: runs jest in watch mode
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
+- `generate`: generate component structure automatically
