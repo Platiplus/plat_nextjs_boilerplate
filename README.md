@@ -15,6 +15,7 @@ This boilerplate uses a lot of cool stuff, such as:
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
+- [Plop](https://plopjs.com/)
 
 It is configured to run with SSR and PWA capabilities.
 
